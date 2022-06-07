@@ -1,0 +1,30 @@
+.row button{
+    width:80px;
+    height: 50px;
+    margin: 5px;
+    border-style: none;
+    border-radius: 5px;
+}
+
+#clear {
+    background-color: rgb(202, 66, 66);
+    color: aliceblue;
+    height: 40px;
+}
+
+#display {
+    width:250px;
+    margin-top: 5px;
+    height: 40px;
+    background-color: lightblue;
+}
+
+.btn-clr {
+    background-color: rgb(232, 185, 68);
+    color: aliceblue;
+}
+
+.blue-btn {
+    background-color: rgb(61, 158, 218);
+    color: aliceblue;
+}
